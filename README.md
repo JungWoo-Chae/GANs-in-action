@@ -1,5 +1,5 @@
 # GANs-in-action
-Pytorch implementations from the book GANs in Action
+Pytorch implementations at [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) from the book GANs in Action
 
 This is Pytorch implementation of the code from *GANs in Action Deep Learning with Generative Adversarial Networks (GANs)*  by Manning Books.
 
